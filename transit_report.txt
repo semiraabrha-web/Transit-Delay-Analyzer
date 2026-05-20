@@ -1,0 +1,10 @@
+
+--- Bus Arrival Status Report ---
+ Scheduled     Actual   Delay(min)         Status
+==================================================
+     07:59      07:55           -4          Early
+     08:14      08:16            2        On-time
+      8:30       8:34            4    Minor Delay
+     08:44      08:55           11    Major Delay
+     09:00      09:00            0        On-time
+==================================================
